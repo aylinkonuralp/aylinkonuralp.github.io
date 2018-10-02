@@ -3,7 +3,7 @@
 
 This is a test.
 
-![](img/16.jpg)
+![](16.jpg)
 
 
 
